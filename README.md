@@ -32,6 +32,11 @@
 ## Limitations
 - Currently Can Only Works With 1 Windows / Docks / Apps Only So Choose 1 Window That You Want To Have The Function On For Your Needs
 
+## Gib Rendang?
+- Like With This Project?
+- You Can feed me some rendang at : 
+- https://bit.ly/KanekoStreamlabs
+- https://trakteer.id/kaneko-hato
 
 ## License
 
