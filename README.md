@@ -32,5 +32,3 @@ Now dont wory theres a single AHK Code That can fix all of your problems !~
 ## License
 
 [![CC0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-To the extent possible under law, [Matias Singers](https://mts.io) has waived all copyright and related or neighboring rights to this work.
