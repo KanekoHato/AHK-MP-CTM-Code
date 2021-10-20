@@ -1,6 +1,6 @@
 <img src="pigeonpurpleneon.png" align="right" />
 
-# README First [![Awesome](https://github.com/KanekoHato/AHK-MP-CTM-Code/blob/main/pigeonpurpleneon.png)](https://github.com/KanekoHato/AHK-MP-CTM-Code#readme)
+# README First 
 > Stream With No Hassle In 1 Monitors
 ## Thanks To :
 - [Rohwedder] @AHK Forum
