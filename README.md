@@ -10,10 +10,10 @@
 - [matiassingers] awesome-readme
 
 ## Problem : 
-Do You wanna stream but only have 1 monitors?
-Do You feel annoyed that you need to switch tab outside of the game just for reading chat, looking at stream activities or any other things?
+- Do You wanna stream but only have 1 monitors?
+- Do You feel annoyed that you need to switch tab outside of the game just for reading chat, looking at stream activities or any other things?
 
-Now dont wory theres a single AHK Code That can fix all of your problems !~
+- Now dont wory theres a single AHK Code That can fix all of your problems !~
 
 ## How To? :
 - [Download AHK] https://www.autohotkey.com/
