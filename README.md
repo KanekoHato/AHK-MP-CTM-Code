@@ -1,7 +1,9 @@
 <img src="pigeonpurpleneon.png" align="right" />
 
 # README First 
-> Stream With No Hassle In 1 Monitors
+> AHK Multi Purpose Click Through Mode (AHK MP CTM)
+> Stream In 1 Monitors Without Hassle
+
 ## Thanks To :
 - [Rohwedder] @AHK Forum
 - [BattleProgrammer] @BlackWings
@@ -9,7 +11,7 @@
 
 ## Problem : 
 Do You wanna stream but only have 1 monitors?
-Do You feel annoyed that you need to switch tab outside of the game just for reading chat, stream activities or any other things?
+Do You feel annoyed that you need to switch tab outside of the game just for reading chat, looking at stream activities or any other things?
 
 Now dont wory theres a single AHK Code That can fix all of your problems !~
 
@@ -23,6 +25,7 @@ Now dont wory theres a single AHK Code That can fix all of your problems !~
 - [Enable Desired Dock]
 - [Click On The Dock That You Just Activate]
 - [Press ALT + T] To Enable The Function
+- [Press Again] Press Assigned Button Again On Top Of The Window To Disable The Function
 
 
 ## Limitations
