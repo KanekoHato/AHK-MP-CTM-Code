@@ -26,6 +26,7 @@ Now dont wory theres a single AHK Code That can fix all of your problems !~
 - [Click On The Dock That You Just Activate]
 - [Press ALT + T] To Enable The Function
 - [Press Again] Press Assigned Button Again On Top Of The Window To Disable The Function
+- [Run The Game On Windowed Fullscreen]
 
 
 ## Limitations
