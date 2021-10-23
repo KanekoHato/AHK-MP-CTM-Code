@@ -20,17 +20,16 @@
 - [Install AHK]
 - [Download Released Code] https://github.com/KanekoHato/AHK-MP-CTM-Code/releases
 - [Extract The Code Using Your Preferred Program]
-- [Click Twice On The Code] *If asked : select an application to open this, choose AHK
+- [Click Twice On The Code] *If asked : What app to open the code, choose AHK from the list
 - [Open Your OBS]
-- [Enable Desired Dock]
-- [Click On The Dock That You Just Activate]
-- [Press ALT + T] To Enable The Function
-- [Press Again] Press Assigned Button Again Anywhere To Disable The Function
+- [Enable Desired Dock, Dont Dock It Into The OBS]
+- [Hover On The Window That You Want To Enable The Effect, Press Assigned Key (ALT + T) To Enable]
+- [Hover Your Mouse Again On Top Of The Window And Press Assigned Key (ALT+T) To Disable]
 - [Run The Game On Windowed / Windowed Borderless]
 
-
 ## Limitations
-- Currently Can Only Works With 1 Windows / Docks / Apps Only So Choose 1 Window That You Want To Have The Function On For Your Needs
+- Have No Gui to list what window that were have the effect on
+- Have no Gui to select the effect enable window to turn it off
 
 ## Gib Rendang?
 - Like With This Project?
